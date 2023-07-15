@@ -1,12 +1,62 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luv_sainii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luv-saini-4462a6231) 
+<h1 align="center">Hi there! I'm Luv Saini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br> 
+ <h3>“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” - Bill Gates</h3>
+ <br>
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ <img  src="https://akashsurve2377.netlify.app/static/media/output-onlinegiftools.0137dac1.gif" height="100px" align="right" />
+  <br>
+   ## 👨🏻‍💻 About Me:
+<img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luvSainii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luvSainii&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luvSainii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I’m currently working on `Something Intresting`.
 
----
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Projects`
+
+- 📫 How to reach me **beasaini2002@gmail.com**
+
+
+<br>
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,mongodb,nodejs," />
+  </a>
+</p>
+<!-- <img src="" alt="" /> -->
+<h2 align="center"><i>Tools | Use</i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+  </a>
+</p>
+
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luv-saini-4462a6231/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+</p>
+<h2>📊  Github Stats</h2>
+<br/>
+
+
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=luvSainii&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvSainii&layout=compact&theme=midnight-purple" />
+</div>
+ <br />
+<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=luvSainii&theme=rogue" alt="activitygraph" /> </p>
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luvSainii&theme=vision-friendly-dark" alt=""/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=luvSainii&no-frame=true" alt=""/></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luvSainii&theme=tokyonight" alt="summarycard"/> </p>
+
+<hr />
+<br>
+<h3 align="center"> 
+  Visitor count <br><br>
+  <img  src="https://profile-counter.glitch.me/luvSainii/count.svg" />
+</h3>
